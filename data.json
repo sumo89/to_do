@@ -1,0 +1,16 @@
+{
+	"items": [
+		{
+			"name": "homework",
+			"done": true
+		},
+		{
+			"name": "shopping",
+			"done": false
+		},
+		{
+			"name": "go outside",
+			"done": false
+		}
+	]
+}
